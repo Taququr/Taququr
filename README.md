@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taququr
 - 👀 I’m interested in Web and Software Development
-- 🌱 I’m currently learning Docker and Jenkins
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Nothing as of yet
 - 📫 How to reach me through my github
 
